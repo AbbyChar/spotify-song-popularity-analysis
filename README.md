@@ -1,8 +1,8 @@
 # spotify-song-popularity-analysis
-Exploratory Data Analysis of Spotify tracks using Kaggle dataset, "30000 Spotify Songs".
+Exploratory Data Analysis of Spotify tracks using Kaggle dataset, [30000 Spotify Songs](https://www.kaggle.com/datasets/joebeachcapital/30000-spotify-songs) by Joakim Arvidsson.
 
-This project explores the Kaggle dataset "30000 Spotify Songs" to understand waht makes song tracks popular on Spotify.
-Using python, I performed exploratory data analysis (EDA), group comparisons, and a baseline regression model.
+The goal of this project is to understand what makes songs popular on Spotify.
+To do so, I performed exploratory data analysis (EDA), group comparisons, and a baseline regression model, using Python.
 
 ## Questions Answered
 1. How are audio features distributed across songs?
@@ -13,7 +13,7 @@ Using python, I performed exploratory data analysis (EDA), group comparisons, an
 
 ## Key Findings
 - Popularity is heavily skewed towards low values.
-- Popular songs are less instrumental, louder, slightly shorter, and marginally more danceable and positive.
+- Popular songs are louder, slightly shorter, significantly less instrumental, and marginally more danceable and positive.
 - Pop and Latin Genres have the highest average popularity.
 - The average popularity was evenly spread for musical keys.
 - Songs in Major keys are slightly more popular on average.
